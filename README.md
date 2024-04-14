@@ -5,7 +5,7 @@ This repository contains code for conducting exploratory data analysis (EDA) and
 ## Data Preparation and Exploration:
 
 ### Loading Data:
-- The data is loaded from a CSV file named `supply_chain_data.csv` using the Pandas library.
+- The data is loaded from a CSV file named `supply_chain_data.csv` using Pandas library.
 
 ### Data Overview:
 - The dataset contains 100 rows and 24 columns, with each row representing a different product in the supply chain.
